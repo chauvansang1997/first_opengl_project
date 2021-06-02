@@ -1,0 +1,2 @@
+rootProject.name = "First opengl"
+include ':app'
